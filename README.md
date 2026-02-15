@@ -34,4 +34,3 @@ The goal is to explore the map, collect fruits, and learn programming concepts t
 
 ![](screenshots/1.png)
 ![](screenshots/2.png)
-![](screenshots/3.png)
